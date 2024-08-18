@@ -1,0 +1,92 @@
+{
+  "homes": [
+    {
+      "id": "1",
+      "address": "Koningin Astridplein 1, 2018 Antwerp",
+      "photo": "https://dummyimage.com/640x360/fff/aaa",
+      "price": 250000,
+      "sold": false
+    },
+    {
+      "id": "2",
+      "address": "Grote Markt 123, 2000 Antwerp",
+      "photo": "https://dummyimage.com/640x360/fff/aaa",
+      "price": 350000,
+      "sold": false
+    },
+    {
+      "id": "3",
+      "address": "Meir 789, 2000 Antwerp",
+      "photo": "https://dummyimage.com/640x360/fff/aaa",
+      "price": 450000,
+      "sold": false
+    },
+    {
+      "id": "4",
+      "address": "Scheldestraat 321, 2060 Antwerp",
+      "photo": "https://dummyimage.com/640x360/fff/aaa",
+      "price": 550000,
+      "sold": false
+    },
+    {
+      "id": "5",
+      "address": "Groenplaats 654, 2000 Antwerp",
+      "photo": "https://dummyimage.com/640x360/fff/aaa",
+      "price": 650000,
+      "sold": false
+    },
+    {
+      "id": "6",
+      "address": "Boulevard Leopold II 987, 2000 Antwerp",
+      "photo": "https://dummyimage.com/640x360/fff/aaa",
+      "price": 750000,
+      "sold": false
+    },
+    {
+      "id": "7",
+      "address": "Paardenmarkt 741, 2000 Antwerp",
+      "photo": "https://dummyimage.com/640x360/fff/aaa",
+      "price": 850000,
+      "sold": "2020-04-25T14:20:00-03:00"
+    },
+    {
+      "id": "8",
+      "address": "Eilandje 369, 2000 Antwerp",
+      "photo": "https://dummyimage.com/640x360/fff/aaa",
+      "price": 950000,
+      "sold": false
+    },
+    {
+      "id": "9",
+      "address": "Wapper 258, 2000 Antwerp",
+      "photo": "https://dummyimage.com/640x360/fff/aaa",
+      "price": 1050000,
+      "sold": false
+    },
+    {
+      "id": "10",
+      "address": "Lange Nieuwstraat 147, 2000 Antwerp",
+      "photo": "https://dummyimage.com/640x360/fff/aaa",
+      "price": 1150000,
+      "sold": false
+    }
+  ],
+  "buyers": [
+    {
+      "id": "1",
+      "naam": "Familie Beton",
+      "email": "hallo@familiebeton.be"
+    },
+    {
+      "id": "3",
+      "naam": "Familie Beton",
+      "email": "hallo@familiebeton.be",
+      "homeId": "7"
+    },
+    {
+      "id": "2",
+      "naam": "Familie Beton",
+      "email": "hallo@familiebeton.be"
+    }
+  ]
+}

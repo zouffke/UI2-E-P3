@@ -1,0 +1,11 @@
+{
+  "name": "data",
+  "type": "module",
+  "scripts": {
+    "start": "json-server --watch db.json",
+    "rest": "json-server --watch db.json"
+  },
+  "devDependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  }
+}

@@ -1,0 +1,10 @@
+# Project exclude paths
+/q2/src/js/models/Home.interface.js
+/q2/src/js/restclient.js
+/q2/src/index.js
+/q3/src/js/models/Home.interface.js
+/q3/src/js/presenter.js
+/q3/src/js/restclient.js
+/q3/src/index.js
+/.idea
+node_modules
